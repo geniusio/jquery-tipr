@@ -21,6 +21,7 @@ http://www.tipue.com/tipr
   position: absolute;
   margin-top: 13px;
   z-index: 1000;
+  white-space: nowrap;
 }
 .tipr_container_top
 {
@@ -28,6 +29,7 @@ http://www.tipue.com/tipr
   position: absolute;
   margin-top: -75px;
   z-index: 1000;
+  white-space: nowrap;
 }
 .tipr_point_top, .tipr_point_bottom 
 {
